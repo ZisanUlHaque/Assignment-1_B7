@@ -1,4 +1,4 @@
-# How do Generics allow you to build reusable components and functions that stay strictly typed regardless of the data structures passed in?
+# The Power of Generics
 
 In TypeScript, **Generics** are the elegant solution, allowing us to create "type variables" that act as placeholders until the code is actually used.
 
@@ -61,5 +61,5 @@ const result = addStudentToCourse(student2);
 
 ```
 
-###Conclusion
+### Conclusion
 By using Generics, we keep our code **DRY** while ensuring that our functions remain predictable and strictly typed. .</T>
