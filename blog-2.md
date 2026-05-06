@@ -68,3 +68,5 @@ class BankAccount {
   public deposit(amount: number) { this._userBalance += amount; }
 }
 ```
+###Conclusion
+By using these four pillars, you can build TypeScript applications that are easier to scale, test, and maintain. Inheritance reuses code, Polymorphism provides flexibility, Abstraction simplifies the interface, and Encapsulation keeps your data safe.

@@ -61,5 +61,5 @@ const result = addStudentToCourse(student2);
 
 ```
 
-
+###Conclusion
 By using Generics, we keep our code **DRY** while ensuring that our functions remain predictable and strictly typed. .</T>
